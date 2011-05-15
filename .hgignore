@@ -1,10 +1,10 @@
 # Ignore file for Visual Studio
 # http://blogs.planetcloud.co.uk/mygreatdiscovery/post/Mercurial-ignore-file.aspx
 # http://stackoverflow.com/questions/34784/mercurial-setup-for-visual-studio-2008-projects
- 
+
 # use glob syntax
 syntax: glob
- 
+
 # Ignore Visual Studio files
 *.obj
 #*.exe
@@ -44,3 +44,4 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 [Bb]uild[Ll]og.*
 *.[Pp]ublish.xml
+Windows7RendererExample/dist
